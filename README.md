@@ -4,7 +4,7 @@ TLDs from https://data.iana.org/TLD/tlds-alpha-by-domain.txt for pihole use beca
 ## This is a regex entry for pihole for all TLDs with some exclusions.
 
 ### The pihole TLD regex format is "(^|\.)(foo|bar)$"
-- continue to use blocklists as usual because any exclusions found here are TLDs and that's a but nuts
+- continue to use blocklists as usual because any exclusions found here are TLDs and that's a bit nuts
 - I don't dislike any particular TLD but some of these are just not useful to me and I never visit them
 - this is a way for me to (from a DNS prespective), to manage a default-deny policy.
 - Why is it on github
