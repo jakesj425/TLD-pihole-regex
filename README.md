@@ -10,3 +10,6 @@ TLDs from https://data.iana.org/TLD/tlds-alpha-by-domain.txt for pihole use beca
 - Why is it on github
   - I thought I could just add a list and point pihole at this raw content, turns out, not so much.
   - This turned into a regex instead.
+ 
+![image](https://github.com/jakesj425/TLD-pihole-regex/assets/13467643/3e563ec2-9582-4465-b602-262c687138a2)
+
